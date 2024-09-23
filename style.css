@@ -1,0 +1,28 @@
+#green{
+    background-color: green;
+    cursor: pointer;
+
+
+}
+
+#red {
+    background-color: red;
+    cursor: pointer;
+
+}
+
+
+#blue{
+    background-color: blue;
+    cursor: pointer;
+}
+#random{
+    cursor: pointer;
+}
+
+button{
+    border-radius: 5px;
+    width: 100px;
+    height:40px;
+    margin:5px;
+}
